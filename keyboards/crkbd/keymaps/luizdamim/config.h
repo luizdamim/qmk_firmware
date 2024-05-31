@@ -31,6 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define QUICK_TAP_TERM 0
 // #undef TAPPING_TERM
 #define TAPPING_TERM 172
+// #define PERMISSIVE_HOLD
 
 #define NO_MUSIC_MODE
 
